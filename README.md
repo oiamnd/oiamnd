@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá! Eu sou Amanda Passos 👋
 
-<!--
-**oiamnd/oiamnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma Desenvolvedora Front-End Júnior com habilidades em HTML, CSS e JavaScript, buscando uma transição de carreira da área de Vendas para a área de Tecnologia.
 
-Here are some ideas to get you started:
+## Experiência Profissional 💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Durante minha trajetória anterior em Vendas, desenvolvi habilidades sólidas em atendimento ao cliente e criação de planilhas. No entanto, minha paixão pelo desenvolvimento de páginas web me impulsiona a buscar constantemente novos desafios e a aprimorar minhas habilidades técnicas.
+
+## Formação Acadêmica 🎓
+
+Possuo graduação em Sistemas de Informação pela Estácio, o que me proporcionou conhecimentos fundamentais para minha jornada profissional.
+
+## Interesses 🔍
+
+Estou aberta a oportunidades de colaboração e networking com profissionais que compartilham dos mesmos interesses e valores na área de Tecnologia. Não hesite em entrar em contato comigo!
+
+## Contato 📫
+
+- LinkedIn: [Amanda Passos](https://www.linkedin.com/in/amandapassosbarbieri/)
+- Email: amandacristinapassos@gmail.com
